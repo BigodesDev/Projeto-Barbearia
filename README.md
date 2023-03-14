@@ -20,15 +20,23 @@
 
 <div align="center">
   <h1>🚀 Tecnologias Utilizadas</h1>
-   <a href="#"> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" width=""/></a>
-   <a href="#"> <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" width=""/></a>
-   <a href="#"> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" width=""/></a>
-   <a href="#"> <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" width=""/></a>
-   <a href="#"> <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" width=""/></a>
-   <a href="#"> <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width=""/></a>
-   <a href="#"> <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" width=""/></a>
-   <a href="#"> <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" width=""/></a>
-   <a href="#"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width=""/></a>
+   <a href="https://en.wikipedia.org/wiki/Firebase"> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffcc32?style=for-the-badge&logo=Firebase&logoColor=white" width=""/></a>
+   <a href="https://pt.wikipedia.org/wiki/Adobe_XD"> <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" width=""/></a>
+   <a href="https://pt.wikipedia.org/wiki/Figma"> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" width=""/></a>
+   <a href="https://ant.design"> <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" width=""/></a>
+   <a href="https://docs.expo.dev"> <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" width=""/></a>
+   <a href="https://pt.wikipedia.org/wiki/React_Native"> <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width=""/></a>
+   <a href="https://styled-components.com"> <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" width=""/></a>
+   <a href="https://yarnpkg.com"> <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" width=""/></a>
+   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width=""/></a>
+   <a href="https://pt.wikipedia.org/wiki/JavaScript"> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width=""/></a>
+   <a href="https://en.wikipedia.org/wiki/TypeScript"> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width=""/></a>
+   <a href="https://en.wikipedia.org/wiki/Windows_Terminal"> <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" width=""/></a>
+   <a href="https://pt.wikipedia.org/wiki/Google_Play"> <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" width=""/></a>
+   <a href="https://pt.wikipedia.org/wiki/Git"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width=""/></a>
+   <a href="https://pt.wikipedia.org/wiki/Android"> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width=""/></a>
+   <a href="https://pt.wikipedia.org/wiki/IOS"> <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" width=""/></a>
+   <a href="https://pt.wikipedia.org/wiki/Canva"> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white " width=""/></a>
 </div>
 
 <br>
@@ -53,7 +61,7 @@
 <h5><i>Após clonar o repositório será necessário instalar as dependencias (node_modules):</i></h5>
 
 ```bash
- npm install
+ yarn i
 ```
 <h5><i>ou</i></h5>
 
@@ -61,11 +69,6 @@
  yarn install
 ```
 <h5><i>Depois de tudo feito corretamente é só rodar o projeto em um ambiente controlado:</i></h5>
-
-```bash
- npm start
-```
-<h5><i>ou</i></h5>
 
 ```bash
  yarn start
