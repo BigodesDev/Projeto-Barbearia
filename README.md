@@ -41,8 +41,8 @@
 
 <br>
 
-<h2>💻 Iniciando o projeto</h2>
-<h3>Pré-requisitos:</h3>
+<h2>💻 Iniciando o projeto...</h2>
+<h3>Pré-requisitos iniciais:</h3>
 
 - [Node.js](https://nodejs.org/en/)
 - [Npm](https://www.npmjs.com/)
@@ -56,7 +56,7 @@
 <h5><i>Na pasta que deseja clonar o repositório, abra com GitBash e insira o seguinte comando:</i></h5>
 
 ```bash
- git clone https://github.com/BigodesDev/Projeto-Barbearia/
+ git clone "https://github.com/BigodesDev/Projeto-Barbearia"
 ```
 <h5><i>Após clonar o repositório será necessário instalar as dependencias (node_modules):</i></h5>
 
